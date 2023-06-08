@@ -78,20 +78,20 @@ https://validator.w3.org/docs/sgml.html
 More available here:
 https://yaml.org/spec/1.2.2/
 
-| Tag                | Description                                             |
-|--------------------|---------------------------------------------------------|
+| Tag                | Description                                              |
+|--------------------|----------------------------------------------------------|
 | `---`              | Denotes the start of a YAML document                     |
-| `#`                | Indicates a comment in YAML                             |
+| `#`                | Indicates a comment in YAML                              |
 | `key: value`       | Represents a key-value pair in YAML                      |
 | `- item`           | Represents an item in a YAML list                        |
 | `[item1, item2]`   | Represents an inline YAML list                           |
 | `!tag value`       | Specifies an explicit tag for a value in YAML            |
-| `||`                | Indicates a block scalar with literal style              |
+| `"|"`              | Indicates a block scalar with literal style              |
 | `>`                | Indicates a block scalar with folded style               |
 | `true`, `false`    | Represents boolean values in YAML                        |
 | `null`             | Represents a null or empty value in YAML                 |
-| `'single quotes'`  | Represents a string value enclosed in single quotes       |
-| `"double quotes"`  | Represents a string value enclosed in double quotes       |
+| `'single quotes'`  | Represents a string value enclosed in single quotes      |
+| `"double quotes"`  | Represents a string value enclosed in double quotes      |
 | `<<`               | Represents a YAML merge key                              |
 | `&anchor`          | Creates an anchor for referencing in YAML                |
 | `*anchor`          | References an anchor in YAML          
