@@ -4,7 +4,7 @@
   <a href = "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/recommended-tags"> <img align="left" height="40" img width="40" src="https://cdn.simpleicons.org/xaml"> </a>
   <a href = "https://validator.w3.org/docs/sgml.html"> <img align="left" height="40" img width="40" src="https://cdn.simpleicons.org/symphony"> </a>
   <a href = "https://yaml.org/spec/1.2.2/"> <img align="left" height="40" img width="40" src="https://cdn.simpleicons.org/yaml"> </a>
-   <a href = "https://help.accusoft.com/PrizmDoc/latest/HTML/markup-json-specification.html"> <img align="left" height="40" img width="40" src="https://cdn.simpleicons.org/json"> </a>
+   <a href = "https://help.accusoft.com/PrizmDoc/latest/HTML/markup-json-specification.html"> <img align="left" height="40" img width="40" src="https://cdn.simpleicons.org/json/red"> </a>
   <img align="right" alt="stars badge"  src="https://img.shields.io/github/stars/jdsherbert/Markup-Language-Reference"/>
   <img align="right" alt="forks badge"  src="https://img.shields.io/github/forks/jdsherbert/Markup-Language-Reference?label=Fork"/>
   <img align="right" alt="watchers badge"  src="https://img.shields.io/github/watchers/jdsherbert/Markup-Language-Reference"/>
