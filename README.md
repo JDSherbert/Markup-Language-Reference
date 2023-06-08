@@ -86,7 +86,7 @@ https://yaml.org/spec/1.2.2/
 | `- item`           | Represents an item in a YAML list                        |
 | `[item1, item2]`   | Represents an inline YAML list                           |
 | `!tag value`       | Specifies an explicit tag for a value in YAML            |
-| `"|"`              | Indicates a block scalar with literal style              |
+| # `|`              | Indicates a block scalar with literal style              |
 | `>`                | Indicates a block scalar with folded style               |
 | `true`, `false`    | Represents boolean values in YAML                        |
 | `null`             | Represents a null or empty value in YAML                 |
