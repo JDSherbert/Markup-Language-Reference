@@ -1,5 +1,4 @@
-![image](https://github.com/JDSherbert/Markup-Language-Reference/assets/43964243/658c502f-d4d1-4634-9c4f-4e355190d162)
-
+![image](https://github.com/JDSherbert/Markup-Language-Reference/assets/43964243/3a87f97e-ef79-40fb-95b7-f43b375c90a7)
 
 # Markup-Language-Reference
 
