@@ -4,6 +4,7 @@
   <a href = "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/recommended-tags"> <img align="left" height="40" img width="40" src="https://cdn.simpleicons.org/xaml"> </a>
   <a href = "https://validator.w3.org/docs/sgml.html"> <img align="left" height="40" img width="40" src="https://cdn.simpleicons.org/symphony"> </a>
   <a href = "https://yaml.org/spec/1.2.2/"> <img align="left" height="40" img width="40" src="https://cdn.simpleicons.org/yaml"> </a>
+   <a href = "https://help.accusoft.com/PrizmDoc/latest/HTML/markup-json-specification.html"> <img align="left" height="40" img width="40" src="https://cdn.simpleicons.org/json"> </a>
   <img align="right" alt="stars badge"  src="https://img.shields.io/github/stars/jdsherbert/Markup-Language-Reference"/>
   <img align="right" alt="forks badge"  src="https://img.shields.io/github/forks/jdsherbert/Markup-Language-Reference?label=Fork"/>
   <img align="right" alt="watchers badge"  src="https://img.shields.io/github/watchers/jdsherbert/Markup-Language-Reference"/>
@@ -12,10 +13,6 @@
   <br></br>
   -----------------------------------------------------------------------
   
-
-  
-  
-  -----------------------------------------------------------------------
 
 ## XML 
 
@@ -86,7 +83,7 @@ https://yaml.org/spec/1.2.2/
 | `- item`           | Represents an item in a YAML list                        |
 | `[item1, item2]`   | Represents an inline YAML list                           |
 | `!tag value`       | Specifies an explicit tag for a value in YAML            |
-| `｜`                | Indicates a block scalar with literal style              |
+| `｜`               | Indicates a block scalar with literal style              |
 | `>`                | Indicates a block scalar with folded style               |
 | `true`, `false`    | Represents boolean values in YAML                        |
 | `null`             | Represents a null or empty value in YAML                 |
@@ -94,4 +91,21 @@ https://yaml.org/spec/1.2.2/
 | `"double quotes"`  | Represents a string value enclosed in double quotes      |
 | `<<`               | Represents a YAML merge key                              |
 | `&anchor`          | Creates an anchor for referencing in YAML                |
-| `*anchor`          | References an anchor in YAML          
+| `*anchor`          | References an anchor in YAML                             |
+
+## JSON
+
+More available here:
+https://help.accusoft.com/PrizmDoc/latest/HTML/markup-json-specification.html
+
+| Tag                | Description                                             |
+|--------------------|---------------------------------------------------------|
+| `{ }`              | Represents an object in JSON                             |
+| `[ ]`              | Represents an array in JSON                              |
+| `"key": value`     | Represents a key-value pair in JSON                      |
+| `"string"`         | Represents a string value in JSON                        |
+| `number`           | Represents a numeric value in JSON                       |
+| `true`, `false`    | Represents boolean values in JSON                        |
+| `null`             | Represents a null or empty value in JSON                 |
+| `//`               | Indicates a comment in JSON                              |
+| `/* */`            | Represents a multi-line comment in JSON  
