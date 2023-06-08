@@ -4,11 +4,11 @@
   <a href = "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/recommended-tags"> <img align="left" height="40" img width="40" src="https://cdn.simpleicons.org/xaml"> </a>
   <a href = "https://validator.w3.org/docs/sgml.html"> <img align="left" height="40" img width="40" src="https://cdn.simpleicons.org/symphony"> </a>
   <a href = "https://yaml.org/spec/1.2.2/"> <img align="left" height="40" img width="40" src="https://cdn.simpleicons.org/yaml"> </a>
-  <img align="right" alt="stars badge"  src="https://img.shields.io/github/stars/jdsherbert/XML-Tags-Reference"/>
-  <img align="right" alt="forks badge"  src="https://img.shields.io/github/forks/jdsherbert/XML-Tags-Reference?label=Fork"/>
-  <img align="right" alt="watchers badge"  src="https://img.shields.io/github/watchers/jdsherbert/XML-Tags-Reference"/>
-  <img align="right" alt="Visitors"     src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert/XML-Tags-Reference"/>
-  <img align="right" alt="Issues"       src="https://img.shields.io/github/issues/jdsherbert/XML-Tags-Reference"/>
+  <img align="right" alt="stars badge"  src="https://img.shields.io/github/stars/jdsherbert/Markup-Language-Reference"/>
+  <img align="right" alt="forks badge"  src="https://img.shields.io/github/forks/jdsherbert/Markup-Language-Reference?label=Fork"/>
+  <img align="right" alt="watchers badge"  src="https://img.shields.io/github/watchers/jdsherbert/Markup-Language-Reference"/>
+  <img align="right" alt="Visitors"     src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert/Markup-Language-Reference"/>
+  <img align="right" alt="Issues"       src="https://img.shields.io/github/issues/jdsherbert/Markup-Language-Reference"/>
   <br></br>
   -----------------------------------------------------------------------
   
