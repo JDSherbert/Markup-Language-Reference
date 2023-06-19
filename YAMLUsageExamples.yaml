@@ -1,0 +1,36 @@
+// YAML Usage Examples
+
+// Key Value Pairs
+name: John Doe
+age: 30
+city: New York
+
+// Nested Structure
+person:
+  name: John Doe
+  age: 30
+  address:
+    street: 123 Main Street
+    city: New York
+    country: USA
+
+// Lists
+fruits:
+  - apple
+  - banana
+  - orange
+
+// Multi Line Strings
+description: |
+  This is a multi-line string
+  in YAML. It preserves line breaks
+  and indentation.
+  
+// Complex Structure
+employees:
+  - name: John Doe
+    age: 30
+    department: Sales
+  - name: Jane Smith
+    age: 35
+    department: Marketing
