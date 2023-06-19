@@ -1,0 +1,57 @@
+//XML Tag Usage In HTML
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <title>Example Document</title>
+  <summary>This is a summary of the document.</summary>
+  <content>
+    <section>
+      <heading>Section 1</heading>
+      <paragraph>This is the content of section 1.</paragraph>
+    </section>
+    <section>
+      <heading>Section 2</heading>
+      <paragraph>This is the content of section 2.</paragraph>
+    </section>
+  </content>
+</root>
+
+//XML Usage In Code Documentation
+
+/// <summary> 
+/// A summary of what the class/function does. 
+/// </summary>
+
+/// <see cref="Code"/>
+/// This tag is used to create a reference to another code element, such as a class, method, or property. 
+/// It allows you to create cross-references within the documentation.
+
+/// <param name="param"> 
+/// This tag is used to describe the parameters of a method or function. 
+/// It typically includes the name of the parameter and provides a description of its purpose and expected usage. 
+/// </param>
+
+/// <return> 
+/// This tag is used to describe the return value of a method or function. 
+/// It provides information about the type of the returned value and its meaning or purpose. 
+/// </return>
+
+/// <returns> 
+/// This tag is used to describe the return value of a method or function. 
+/// It provides information about the type of the returned value and its meaning or purpose. 
+/// </returns>
+
+/// <example>
+/// This tag is used to provide example code that demonstrates the usage of a particular code element. 
+/// It is helpful for illustrating how to use a class, method, or property in practice.
+/// </example>
+
+/// <exception> 
+///  This tag is used to document the exceptions that a method or function may throw. 
+///  It includes information about the type of exception and provides a description of when and why the exception may be thrown.
+/// </exception>
+
+/// <remarks>
+/// This tag is used to provide additional remarks or information about a code element that may not fit into other tags. 
+/// It can be used to explain implementation details, provide additional context, or offer general advice.
+/// </remarks>
+ 
