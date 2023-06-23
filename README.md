@@ -110,4 +110,4 @@ https://help.accusoft.com/PrizmDoc/latest/HTML/markup-json-specification.html
 | `true`, `false`    | Represents boolean values in JSON                        |
 | `null`             | Represents a null or empty value in JSON                 |
 | `//`               | Indicates a comment in JSON                              |
-| `/* */`            | Represents a multi-line comment in JSON  
+| `/* */`            | Represents a multi-line comment in JSON                  |
